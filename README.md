@@ -4,7 +4,7 @@ This project is an image recognition system. The project purpose is to recognize
 The project is entirely based on classification of machine learning. The system is built using Convolutional neural network. The activation function used is Relu because of its better smoothness. 
 ## Requirement
 Some of things you need to download before running:
-1. [Datasets](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
+1. [Datasets](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)  
 Some of the packages you need to install before running:
 1. Tensorflow  
    `pip install tensorflow==1.14`
